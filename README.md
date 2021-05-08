@@ -19,4 +19,4 @@ Deriving belief states after certain actions using [belief updates](https://en.w
 
 Solving a POMDP using the [SARSOP](https://github.com/AdaCompNUS/sarsop) solver.
 
-The problem statements for task 1 and task 2have been explained in detail in Assignment_Part1.pdf and Assignment_Part2.pdf respectively.
+The problem statements for task 1 and task 2have been explained in detail in [Assignment_Part1.pdf](https://github.com/codelixir/pomdp/blob/main/Assignment_Part1.pdf) and [Assignment_Part2.pdf](https://github.com/codelixir/pomdp/blob/main/Assignment_Part2.pdf) respectively.
